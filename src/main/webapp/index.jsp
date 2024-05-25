@@ -417,5 +417,5 @@
 </html>
 
 <%  } else {%>
-        <%  response.sendRedirect("pruebas.jsp"); %>
+        <%  response.sendRedirect("login.jsp"); %>
 <% }%>

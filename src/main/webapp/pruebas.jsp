@@ -16,7 +16,6 @@
             crossorigin="anonymous"
     />
 </head>
-<jsp:include page="/InicialServlet"/>
 <body>
 
 <div class="container mt-5">
